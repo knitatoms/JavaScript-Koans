@@ -1,3 +1,4 @@
+/*Just a comment */
 module("About Control Structures (topics/about_control_structures.js)");
 
 test("if", function() {
