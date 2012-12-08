@@ -1,4 +1,4 @@
-/*Just a comment */
+/*Just a comment and now with other Git */
 module("About Control Structures (topics/about_control_structures.js)");
 
 test("if", function() {
